@@ -159,9 +159,6 @@ GET https://dummyjson.com/posts?limit=3
 
 ### 5.1.7. Response
 
-<details>
-<summary>Click để xem Response</summary>
-
 ```json
 {
     "posts": [
@@ -219,9 +216,6 @@ GET https://dummyjson.com/posts?limit=3
     "limit": 3
 }
 ```
-
-</details>
-
 ## 5.2. TC02 – Get a Single Post
 
 ### 5.2.1. Mục đích
@@ -309,8 +303,6 @@ GET https://dummyjson.com/posts/1
 
 ### 5.2.7. Response
 
-<details>
-<summary>Click để xem Response</summary>
 
 ```json
 {
@@ -331,7 +323,6 @@ GET https://dummyjson.com/posts/1
 }
 ```
 
-</details>
 
 ## 5.3. TC03 – Get a Non-existent Post
 
@@ -413,8 +404,6 @@ GET https://dummyjson.com/posts/9999
 
 ### 5.3.7. Response
 
-<details>
-<summary>Click để xem Response</summary>
 
 ```json
 {
@@ -422,7 +411,6 @@ GET https://dummyjson.com/posts/9999
 }
 ```
 
-</details>
 
 ## 6. Tổng hợp kết quả kiểm thử
 
